@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hapaxia
 - 👀 I’m interested in problem solving.
-- 🌱 I’m currently learning Japanese.
+- 🌱 I’m currently learning 日本語 (Japanese).
 - 💞️ I’m looking to collaborate on something for fun.
 - 📫 How to reach me: [My Mastodon](https://mastodon.world/@hapaxia) or [My Twitter](https://twitter.com/Hapaxiation)
 - 🔗 Other links: [Link Tree](https://linktr.ee/hapaxia)
