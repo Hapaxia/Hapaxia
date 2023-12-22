@@ -2,7 +2,7 @@
 - 👀 I’m interested in problem solving.
 - 🌱 I’m currently learning 日本語 (Japanese).
 - 💞️ I’m looking to collaborate on something for fun.
-- 📫 How to reach me: [My Mastodon](https://mastodon.world/@hapaxia) or [My Twitter](https://twitter.com/Hapaxiation)
+- 📫 How to reach me: <a rel="me" href="https://mastodon.world/@hapaxia">My Mastodon</a> or [My Twitter](https://twitter.com/Hapaxiation)
 - 🔗 Other links: [Link Tree](https://linktr.ee/hapaxia)
 
 Not the most interesting profile but I'd rather spend time doing stuff 😁
